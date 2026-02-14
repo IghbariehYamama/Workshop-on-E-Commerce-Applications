@@ -45,19 +45,29 @@ The project also includes a **data collection system** for training a machine le
 ### 1️⃣ Install Node
 
 Ensure you are using: Node 20+
-Check version: node -v
+Check version: 
+
+```bash
+node -v
+```
 
 ---
 
 ### 2️⃣ Install Dependencies
 
-From the project root: npm install
+From the project root: 
+
+```bash
+npm install
+```
 
 ---
 
 ### 3️⃣ Start the Development Server
 
+```bash
 npx expo start
+```
 
 ---
 
@@ -65,17 +75,23 @@ npx expo start
 
 ### Android
 
+```bash
 npm run android
+```
 
 or press `a` inside Expo terminal.
 
 ### iOS (macOS only)
 
+```bash
 npm run ios
+```
 
 ### Web
 
+```bash
 npm run web
+```
 
 ---
 
