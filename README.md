@@ -125,3 +125,15 @@ If permission is denied:
 
 - Open device settings
 - Enable microphone access for the app
+
+---
+
+### ⚡ Running the App with Expo Go
+
+- From the `daily-balance-mobile` directory, run:
+
+```bash
+npx expo start -c
+```
+
+- If you are using the Expo Go app on your phone, make sure your device is connected to the same Wi-Fi network as your computer.
